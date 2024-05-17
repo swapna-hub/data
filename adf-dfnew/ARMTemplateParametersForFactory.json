@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf-dfnew"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
 		}
 	}
 }
